@@ -24,6 +24,10 @@ will be longer, due to additionl calculations.
 
 ---
 
+### Credits:
+Some algorithms were adappted from the source code of the following repository: https://github.com/yuvallb/15-puzzle-solver-MM-search
+
+----
 
 ## :point_right: References
 <a id="1">[1]</a>
