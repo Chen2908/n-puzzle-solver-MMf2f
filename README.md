@@ -1,5 +1,5 @@
 #  n-puzzle-solver-MMf2f 
-:two_men_holding_hands
+:two_men_holding_hands:
 
 ## Abstract
 In This work we present an inprovement to the MM search algorithm presented in [[1]](#1).
