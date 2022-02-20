@@ -1,7 +1,7 @@
 #  n-puzzle-solver-MMf2f :two_men_holding_hands:
 
 
-## :point_right: Abstract
+## :bulb: Abstract
 In This work we present an inprovement to the MM search algorithm presented in [[1]](#1).
 MM is a bidirectional search algorithm which is guranteed to always "meet in the middle", which means the forward search and the backwards search will not expand nodes which are 
 past the middle point of the optial solution. 
@@ -14,7 +14,8 @@ During our experiments we compared the performance of our method (MM algorithm w
 
 ---
 
-## :point_right: Experiment hypothesis
+
+##  :mag_right: Experiment hypothesis
 During this work we inspected the influence of changing the evaluation of distance between a certain state to the goal state in the MM algorithm.
 The change was reflected in altering the nodes heuristic from front to end to front to front. The performance of the algorithm was measured by amount of expanded nodes, 
 path length and running time (in ms). 
@@ -22,6 +23,7 @@ Our hypothesis was that in our method the akgorithm will find the optimal soluti
 will be longer, due to additionl calculations. 
 
 ---
+
 
 ## :point_right: References
 <a id="1">[1]</a>
