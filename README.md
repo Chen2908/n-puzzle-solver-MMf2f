@@ -17,9 +17,9 @@ During our experiments we compared the performance of our method (MM algorithm w
 
 ##  :mag_right: Research hypothesis
 During this work we inspected the influence of changing the evaluation of distance between a certain state to the goal state in the MM algorithm.
-The change was reflected in altering the nodes heuristic from front to end to front to front. The performance of the algorithm was measured by amount of expanded nodes, 
+The change was reflected in altering the nodes heuristic from front to end to front to front. The performance of the algorithm was measured by amount of generated nodes, 
 path length and running time (in ms). 
-Our hypothesis was that in our method the akgorithm will find the optimal solution which expnading less nodes however its running time 
+Our hypothesis was that in our method the algorithm will find the optimal solution which expnading less nodes however its running time 
 will be longer, due to additionl calculations. 
 
 ---
