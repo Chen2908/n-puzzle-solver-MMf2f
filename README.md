@@ -25,6 +25,16 @@ will be longer, due to additionl calculations.
 
 ---
 
+
+### :ledger: Running instructions
+To run the code first clone this repository.
+Mark the 'Puzzle' class as the main class and provide two arguments as the Program arguments: 
+1. txt. input file path (our input file is attached)
+2. puzzle size (3 for 8-puzzle, 4 for 15-puzzle)
+
+---
+
+
 ### :ribbon: Credits:
 Some algorithms were adappted from the source code of the following repository: https://github.com/yuvallb/15-puzzle-solver-MM-search
 
