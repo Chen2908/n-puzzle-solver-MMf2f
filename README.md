@@ -13,6 +13,7 @@ The original MM search algorithm uses front-to-end (f2e) hueristic, which in thi
 During our experiments we compared the performance of our method (MM algorithm with f2f heuristic) to the original MM algorithm, and to A* search and bidirectional A* search.
 We included 35 inputs of 15-puzzle in our experiments. The inputs and results are attached. 
 
+
 ---
 
 
@@ -23,20 +24,23 @@ path length and running time (in ms).
 Our hypothesis was that in our method the algorithm will find the optimal solution which expnading less nodes however its running time 
 will be longer, due to additionl calculations. 
 
+
 ---
 
 
-### :ledger: Running instructions
+## :ledger: Running instructions
 To run the code first clone this repository.
 Mark the 'Puzzle' class as the main class and provide two arguments as the Program arguments: 
 1. txt. input file path (our input file is attached)
 2. puzzle size (3 for 8-puzzle, 4 for 15-puzzle)
+
 
 ---
 
 
 ### :ribbon: Credits:
 Some algorithms were adappted from the source code of the following repository: https://github.com/yuvallb/15-puzzle-solver-MM-search
+
 
 ----
 
