@@ -11,6 +11,7 @@ The problem we focus on is tile puzzle. We present how bidirectional search and 
 The improvement we offer is changing the method for calculating the heuristic of the nodes in the graph.
 The original MM search algorithm uses front-to-end (f2e) hueristic, which in this work we offer to perform the calculation by the front-to-front (f2f) heuristic. 
 During our experiments we compared the performance of our method (MM algorithm with f2f heuristic) to the original MM algorithm, and to A* search and bidirectional A* search.
+We included 35 inputs of 15-puzzle in our experiments. The inputs and results are attached. 
 
 ---
 
