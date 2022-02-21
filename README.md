@@ -2,7 +2,7 @@
 
 
 ## :bulb: Abstract
-In This work we present an inprovement to the MM search algorithm presented in [[1]](#1).
+In this work we present an inprovement to the MM search algorithm presented in [[1]](#1).
 MM is a bidirectional search algorithm which is guranteed to always "meet in the middle", which means the forward search and the backwards search will not expand nodes which are 
 past the middle point of the optial solution. 
 
