@@ -39,7 +39,7 @@ Mark the 'Puzzle' class as the main class and provide two arguments as the Progr
 
 
 ### :ribbon: Credits:
-Some algorithms were adappted from the source code of the following repository: https://github.com/yuvallb/15-puzzle-solver-MM-search
+Some algorithms were adapted from the source code of the following repository: https://github.com/yuvallb/15-puzzle-solver-MM-search
 
 
 ----
